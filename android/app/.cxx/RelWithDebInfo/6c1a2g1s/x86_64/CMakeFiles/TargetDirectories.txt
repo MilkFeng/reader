@@ -1,0 +1,2 @@
+D:/MyProgram/FlutterProgram/reader/reader/android/app/.cxx/RelWithDebInfo/6c1a2g1s/x86_64/CMakeFiles/edit_cache.dir
+D:/MyProgram/FlutterProgram/reader/reader/android/app/.cxx/RelWithDebInfo/6c1a2g1s/x86_64/CMakeFiles/rebuild_cache.dir
