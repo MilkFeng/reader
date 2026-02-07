@@ -1,3 +1,7 @@
+
+废弃，转移到 ![Lumina](github.com/MilkFeng/lumina.git)
+
+
 Flutter 编写的 Epub 阅读器，支持基本的阅读和书架管理功能。
 
 理论上可以支持 Android 和 iOS，但是我没有苹果设备，所以只能编译 Android 版本。
