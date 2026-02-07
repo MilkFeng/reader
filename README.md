@@ -1,5 +1,5 @@
 
-废弃，转移到 [Lumina](github.com/MilkFeng/lumina.git)
+废弃，转移到 [Lumina](https://github.com/MilkFeng/lumina.git)
 
 
 Flutter 编写的 Epub 阅读器，支持基本的阅读和书架管理功能。
